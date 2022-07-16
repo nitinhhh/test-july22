@@ -10,3 +10,5 @@
 # 1 txt file logs
 
 1 new changes
+
+New changes for stash
